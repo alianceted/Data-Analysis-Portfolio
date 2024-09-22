@@ -41,9 +41,6 @@ The cleaned dataset was analyzed to identify trends and insights related to layo
 - **Total layoffs by company**
 <img src="Images/p1.1.png">
 <img width="254" src="Images/r1.1.png">
-<p>
- This chart shows the total number of layoffs per year from 2020 to 2023. There is a noticeable spike in layoffs in 2020, likely due to the impact of the COVID-19 pandemic.
-</p>
 
 - **Companies with the highest number of layoffs in a single event**
 <img src="Images/p1.2.png">
@@ -95,10 +92,20 @@ The cleaned dataset was analyzed to identify trends and insights related to layo
 
 
 ## Key Insights
-A total of 383,159 employees were laid off across 1,995 layoff events.
-The Consumer industry was the most affected, with 45,182 layoffs.
-The United States had the highest layoffs, accounting for over 256,000 employees.
-Post-IPO companies experienced the largest layoffs, with 204,132 employees affected.
-Despite significant fundraising, companies raised an average of $875.1 million before conducting layoffs.
+**Total Layoffs:** Across all 1,640 companies analyzed in the dataset, a total of 383,159 employees were laid off between 2020 and 2023. The layoffs were not evenly distributed, with the most significant spikes occurring in 2020 (due to the onset of COVID-19) and 2022, when companies across various sectors made large-scale cuts in response to global economic challenges.
+
+**Top Affected Industries:** The Consumer and Retail industries were the hardest hit, collectively accounting for over 88,000 layoffs. The Consumer industry led with 45,182 employees laid off, followed closely by Retail with 43,613 layoffs. These industries were particularly vulnerable due to shifts in consumer behavior, supply chain disruptions, and the broader economic downturn following the pandemic.
+
+**Global Impact:** Layoffs spanned 51 countries, with the United States having the greatest impact by far, accounting for 256,559 layoffs—about 67% of the global total. However, when looking at the number of layoffs per company, the Netherlands had the highest average of layoffs per company, signaling that while fewer Dutch companies were affected, they experienced more significant workforce reductions. This demonstrates that even smaller countries, in terms of the number of layoffs, can be disproportionately affected when examined on a per-company basis.
+
+**Funding Stages and Closures:** Companies in the Seed stage of funding, which typically includes startups seeking early investments, were particularly vulnerable to complete shutdowns, with 45% of these companies closing down entirely. These early-stage businesses also accounted for a relatively small number of layoffs—only 1,636 employees—because of their smaller size. In contrast, Post-IPO companies experienced the highest total layoffs at over 204,000 employees but had a much lower closure rate, with only 1% of these companies shutting down. This illustrates the resilience of larger, established firms even in times of economic hardship, while smaller startups face higher risks of failure.
+
+**Top Companies by Layoffs:** The tech giants— Amazon, Meta, Google, Salesforce, and Microsoft were responsible for a substantial portion of the layoffs. Amazon led the pack, laying off 18,150 employees, while Meta and Google followed closely behind.
+
+**Yearly Layoff Trends:** The dataset reveals a clear trend of increasing layoffs over the three-year period. The year 2022 saw the largest number of layoffs, with over 160,000 employees losing their jobs. In 2023, while the total number of layoffs was slightly lower, the layoffs were concentrated among fewer companies, indicating larger, more significant reductions by major corporations. Across all years, 75% of the total layoffs occurred in 2022 and 2023, reflecting the broader economic challenges and the ongoing recovery from the pandemic.
 
 
+## Conclusion
+This analysis reveals the widespread and varied impact of global layoffs across different industries, countries, and company stages from 2020 to 2023. While the United States and Consumer industries saw the highest total layoffs, the Hardware industry and the Netherlands displayed a far greater proportional impact, with fewer companies bearing larger workforce reductions. Significant tech companies, were among the hardest hit, accounting for a large portion of layoffs. This highlights the vulnerability of even the most well-funded companies to market conditions and economic downturns.
+
+Moreover, companies at different funding stages faced varying degrees of failure, with Seed stage startups seeing the highest closure rates, reflecting the unique challenges of early-stage businesses. In contrast, Post-IPO companies laid off the most employees but remained largely operational, signaling the adaptation strategies of larger, established firms. The data suggests that while layoffs affected many companies globally, the impact was not evenly distributed. Major corporations and early-stage startups were hit the hardest, either through large-scale layoffs or complete closures, illustrating the breadth and depth of this challenging economic period.
