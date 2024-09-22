@@ -39,4 +39,6 @@ Four clustering algorithms were applied to the RFM data:
 Each method was evaluated using metrics like the Silhouette Score and Davies-Bouldin Index, helping to select the best performing model for segmentation.
 
 ## Conclusion
-The customer segments identified can guide the company in designing personalized marketing strategies and retention efforts. The model also allows for detecting outliers and improving operational efficiency in inventory management and demand forecasting.
+The segmentation revealed high-value customer clusters, allowing the business to prioritize marketing efforts and retention campaigns. By aligning product recommendations and pricing strategies with customer preferences, the company stands to improve customer satisfaction and boost revenue. The model also allows for detecting outliers and improving operational efficiency in inventory management and demand forecasting.
+
+
