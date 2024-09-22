@@ -41,6 +41,9 @@ The cleaned dataset was analyzed to identify trends and insights related to layo
 - **Total layoffs by company**
 <img src="Images/p1.1.png">
 <img width="254" src="Images/r1.1.png">
+<p>
+ This chart shows the total number of layoffs per year from 2020 to 2023. There is a noticeable spike in layoffs in 2020, likely due to the impact of the COVID-19 pandemic.
+</p>
 
 - **Companies with the highest number of layoffs in a single event**
 <img src="Images/p1.2.png">
