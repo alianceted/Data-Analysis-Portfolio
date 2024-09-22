@@ -39,74 +39,56 @@ The cleaned dataset was analyzed to identify trends and insights related to layo
 ### 1. How do layoff statistics vary across different companies?
 
 - **Total layoffs by company**
-
-![1.1](https://github.com/user-attachments/assets/56a5dad2-6158-445b-95cf-c1e8f9b5e553)
-
-<img width="254" alt="image" src="https://github.com/user-attachments/assets/a9e6e7d7-069c-46fb-9d37-109f671157c7">
-
+<img src="Images/p1.1.png">
+<img width="254" src="Images/r1.1.png">
 
 - **Companies with the highest number of layoffs in a single event**
-
-![1.2](https://github.com/user-attachments/assets/1310559f-5816-44ec-a099-b67882a1d19a)
-
-<img width="226" alt="image" src="https://github.com/user-attachments/assets/bd874dd2-1568-4373-9937-40050512bb23">
-
+<img src="Images/p1.2.png">
+<img width="226" src="Images/r1.2.png">
 
 
 ### 2. What are the yearly trends in layoffs from 2020 to 2023?
+
 - **Number of layoffs by year**
-
-![2.1](https://github.com/user-attachments/assets/f240a903-4dfe-4427-a568-8e82462c5f4c)
-<img width="388" alt="image" src="https://github.com/user-attachments/assets/2823b2d8-0abe-479b-b637-830767924613">
-
+<img src="Images/p2.1.png">
+<img width="388" src="Images/r2.1.png">
 
 - **Ranking companies by number of layoffs for each year**
-
-![2.2](https://github.com/user-attachments/assets/949d674a-c32f-4acc-9f15-76eca6e12a2a)
-<img width="435" alt="image" src="https://github.com/user-attachments/assets/d249d6d4-4f3f-4118-811a-b32a57196504">
-
+<img src="Images/p2.2.png">
+<img width="435" src="Images/r2.2.png">
 
 
 ### 3. Which industries experienced the highest number of layoffs?
+
 - **Number of layoffs per industry**
-
-![3.1](https://github.com/user-attachments/assets/ca5b7398-f84b-4986-800e-ba78e1ee3afb)
-<img width="342" alt="image" src="https://github.com/user-attachments/assets/5c9c7fdd-8bee-4cc5-ba39-a79aebfbce02">
-
+<img src="Images/p3.1.png">
+<img width="342" src="Images/r3.1.png">
 
 - **Top 3 industries in each year that laid off their employees**
-
-![3.2](https://github.com/user-attachments/assets/9b0217a2-8b8c-4296-b2eb-500029756a5b)
-<img width="471" alt="image" src="https://github.com/user-attachments/assets/6c413657-59ca-4a89-adc5-efbb67aef31d">
-
+<img src="Images/p3.2.png">
+<img width="471" src="Images/r3.2.png">
 
 
 ### 4. How does the geographical distribution of layoffs vary across different countries?
+
 - **Number of layoffs by country**
-
-![4.1](https://github.com/user-attachments/assets/16acf08f-a100-40fe-bad2-871bb807c6e7)
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/f32572ab-2ab1-459d-a411-8c189b664980">
-
+<img src="Images/p4.1.png">
+<img width="400" src="Images/r4.1.png">
 
 - **The percentage companies that closed down because of the layoffs, per country**
-
-![4.2](https://github.com/user-attachments/assets/387db61c-5d1a-47de-8d0c-c5a114ee54c9)
-<img width="594" alt="image" src="https://github.com/user-attachments/assets/a9e0d223-8178-4173-a149-350d02cd7a06">
-
+<img src="Images/p4.2.png">
+<img width="594" src="Images/r4.2.png">
 
 
 ### 5. How do layoffs differ across various stages of company maturity?
+
 - **Number of layoffs and companies per business stage**
-
-![5.1](https://github.com/user-attachments/assets/9eea5233-9b16-4e2e-82d5-bd44b60693de)
-<img width="390" alt="image" src="https://github.com/user-attachments/assets/9efc324c-f584-481b-a5d8-67bc2c15fdd5">
-
+<img src="Images/p5.1.png">
+<img width="390" src="Images/r5.1.png">
 
 - **The percentage companies that closed down because of the layoffs, per business stage**
-
-![5.1](https://github.com/user-attachments/assets/ed330d03-f596-4046-9ab2-8db1f9d5cb40)
-<img width="618" alt="image" src="https://github.com/user-attachments/assets/03a37eec-0a82-436d-b4f7-0341562e1cae">
-
+<img src="Images/p5.2.png">
+<img width="618" src="Images/r5.2.png">
 
 
 ## Key Insights
